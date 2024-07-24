@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electricity-Unit", "Assignments\Electricity-Unit.csproj", "{0F00EE8A-7B32-4F69-BE11-4607EA1CDD09}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gross Salary", "Gross Salary\Gross Salary.csproj", "{9A94B445-4A5C-4C38-9A54-11EEC29AF37B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Characters to First And Last", "Add Characters to First And Last\Add Characters to First And Last.csproj", "{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}"
@@ -15,16 +13,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Three Characters", "Add
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Pattern", "Print Pattern\Print Pattern.csproj", "{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electricity Unit", "Electricity Unit\Electricity Unit.csproj", "{5C5339A7-66B3-4BBC-B87D-0AD268048D72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F00EE8A-7B32-4F69-BE11-4607EA1CDD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F00EE8A-7B32-4F69-BE11-4607EA1CDD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F00EE8A-7B32-4F69-BE11-4607EA1CDD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F00EE8A-7B32-4F69-BE11-4607EA1CDD09}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9A94B445-4A5C-4C38-9A54-11EEC29AF37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9A94B445-4A5C-4C38-9A54-11EEC29AF37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A94B445-4A5C-4C38-9A54-11EEC29AF37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
