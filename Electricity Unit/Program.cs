@@ -9,7 +9,7 @@
         public static void CalculateUnit()
         {
             Console.WriteLine("Enter electricity unit");
-            int unit = Convert.ToInt32(Console.ReadLine());   
+            int unit = Convert.ToInt32(Console.ReadLine());       
             double price = 1;
             if (unit <= 50)
             {
