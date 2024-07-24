@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gross Salary", "Gross Salar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Characters to First And Last", "Add Characters to First And Last\Add Characters to First And Last.csproj", "{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap Characters", "Swap Characters\Swap Characters.csproj", "{C3DC48F3-96CC-45C1-BB86-2686C767E73B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DC48F3-96CC-45C1-BB86-2686C767E73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DC48F3-96CC-45C1-BB86-2686C767E73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DC48F3-96CC-45C1-BB86-2686C767E73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DC48F3-96CC-45C1-BB86-2686C767E73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
