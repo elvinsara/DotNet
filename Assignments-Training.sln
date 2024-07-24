@@ -5,13 +5,15 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electricity-Unit", "Assignments\Electricity-Unit.csproj", "{0F00EE8A-7B32-4F69-BE11-4607EA1CDD09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gross Salary", "Gross Salary\Gross Salary.csproj", "{9A94B445-4A5C-4C38-9A54-11EEC29AF37B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gross Salary", "Gross Salary\Gross Salary.csproj", "{9A94B445-4A5C-4C38-9A54-11EEC29AF37B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Characters to First And Last", "Add Characters to First And Last\Add Characters to First And Last.csproj", "{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Characters to First And Last", "Add Characters to First And Last\Add Characters to First And Last.csproj", "{28A190D4-DD59-451B-9858-8F3EF3BBF2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap Characters", "Swap Characters\Swap Characters.csproj", "{C3DC48F3-96CC-45C1-BB86-2686C767E73B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap Characters", "Swap Characters\Swap Characters.csproj", "{C3DC48F3-96CC-45C1-BB86-2686C767E73B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Three Characters", "Add Three Characters\Add Three Characters.csproj", "{382E1881-AA20-4F65-8C71-E2B9B2389DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Three Characters", "Add Three Characters\Add Three Characters.csproj", "{382E1881-AA20-4F65-8C71-E2B9B2389DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Pattern", "Print Pattern\Print Pattern.csproj", "{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{382E1881-AA20-4F65-8C71-E2B9B2389DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{382E1881-AA20-4F65-8C71-E2B9B2389DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{382E1881-AA20-4F65-8C71-E2B9B2389DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
