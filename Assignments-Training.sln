@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap Characters", "Swap Cha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Three Characters", "Add Three Characters\Add Three Characters.csproj", "{382E1881-AA20-4F65-8C71-E2B9B2389DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Pattern", "Print Pattern\Print Pattern.csproj", "{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print Pattern", "Print Pattern\Print Pattern.csproj", "{3FCCC1AE-F1E6-4F7D-B060-D7557E344E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electricity Unit", "Electricity Unit\Electricity Unit.csproj", "{5C5339A7-66B3-4BBC-B87D-0AD268048D72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electricity Unit", "Electricity Unit\Electricity Unit.csproj", "{5C5339A7-66B3-4BBC-B87D-0AD268048D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pallindrome", "Pallindrome\Pallindrome.csproj", "{A71176CB-4EE8-47D8-9021-CE058E97EED3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C5339A7-66B3-4BBC-B87D-0AD268048D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71176CB-4EE8-47D8-9021-CE058E97EED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71176CB-4EE8-47D8-9021-CE058E97EED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71176CB-4EE8-47D8-9021-CE058E97EED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71176CB-4EE8-47D8-9021-CE058E97EED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
