@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{C28CDC04-7AC8-42EB-868D-E93425B29FCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{EDA215B0-10BE-443F-B6D1-FB245D855977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagement", "BookManagement\BookManagement.csproj", "{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{C28CDC04-7AC8-42EB-868D-E93425B29FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C28CDC04-7AC8-42EB-868D-E93425B29FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C28CDC04-7AC8-42EB-868D-E93425B29FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA215B0-10BE-443F-B6D1-FB245D855977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA215B0-10BE-443F-B6D1-FB245D855977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA215B0-10BE-443F-B6D1-FB245D855977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA215B0-10BE-443F-B6D1-FB245D855977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
