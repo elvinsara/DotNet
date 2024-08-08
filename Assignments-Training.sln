@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee Management", "Empl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{D95C1648-A013-46AD-B87C-1A639C8568BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{1E5A9D70-4BCB-4142-B9C6-D6B82CEC61F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{1E5A9D70-4BCB-4142-B9C6-D6B82CEC61F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{C28CDC04-7AC8-42EB-868D-E93425B29FCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{C28CDC04-7AC8-42EB-868D-E93425B29FCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{EDA215B0-10BE-443F-B6D1-FB245D855977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{EDA215B0-10BE-443F-B6D1-FB245D855977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManagement", "BookManagement\BookManagement.csproj", "{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookManagement", "BookManagement\BookManagement.csproj", "{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{4ED307DF-816D-42C9-8312-047B523940BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED307DF-816D-42C9-8312-047B523940BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED307DF-816D-42C9-8312-047B523940BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED307DF-816D-42C9-8312-047B523940BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED307DF-816D-42C9-8312-047B523940BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
