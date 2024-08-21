@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee", "Employee\Employ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee Management", "Employee Management\Employee Management.csproj", "{8D9C4860-083E-4542-823D-A418DA6E8615}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{D95C1648-A013-46AD-B87C-1A639C8568BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person Constructor Vs Destructor", "Person\Person Constructor Vs Destructor.csproj", "{D95C1648-A013-46AD-B87C-1A639C8568BE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{1E5A9D70-4BCB-4142-B9C6-D6B82CEC61F5}"
 EndProject
@@ -32,6 +32,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookManagement", "BookManagement\BookManagement.csproj", "{FB8A9A9C-47BE-41AF-9FD6-3869EF7862CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{4ED307DF-816D-42C9-8312-047B523940BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorManagement", "DoctorManagement\DoctorManagement.csproj", "{FD76F5CC-7E84-4108-87EF-D2B842889839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{4ED307DF-816D-42C9-8312-047B523940BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ED307DF-816D-42C9-8312-047B523940BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ED307DF-816D-42C9-8312-047B523940BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD76F5CC-7E84-4108-87EF-D2B842889839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD76F5CC-7E84-4108-87EF-D2B842889839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD76F5CC-7E84-4108-87EF-D2B842889839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD76F5CC-7E84-4108-87EF-D2B842889839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
