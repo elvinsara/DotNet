@@ -5,11 +5,11 @@
         static void Main(string[] args)
         {
             // Create some products
-            Product firstProduct = new Product("Laptop", 1500.00m, "Electronics");
-            Product secondProduct = new Product("Headphones", 200.00m, "Accessories");
+            Product firstProduct = new Product("Laptop", 55000, "Electronics");
+            Product secondProduct = new Product("Headphones", 4000, "Accessories");
 
             // Create a user
-            User user = new User("john_doe", "password123", "john@example.com");
+            User user = new User("mintra", "password123", "mintra@abc.com");
 
             // Create an order and add products to it
             Order order = new Order();
