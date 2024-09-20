@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorManagement", "DoctorM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seleniumtest", "Seleniumtest\Seleniumtest.csproj", "{C87BCD42-C67B-4D51-8E8E-4F403383998A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milestone_2_ECommerce", "Milestone_2_ECommerce\Milestone_2_ECommerce.csproj", "{3739EF1A-C019-4948-823E-9277E0051A21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Milestone_2_ECommerce", "Milestone_2_ECommerce\Milestone_2_ECommerce.csproj", "{3739EF1A-C019-4948-823E-9277E0051A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MileStone3_FlightBookingSystem", "MileStone3_FlightBookingSystem\MileStone3_FlightBookingSystem.csproj", "{CF13349B-177F-45A4-A42C-9840A5076BFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{3739EF1A-C019-4948-823E-9277E0051A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3739EF1A-C019-4948-823E-9277E0051A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3739EF1A-C019-4948-823E-9277E0051A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF13349B-177F-45A4-A42C-9840A5076BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF13349B-177F-45A4-A42C-9840A5076BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF13349B-177F-45A4-A42C-9840A5076BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF13349B-177F-45A4-A42C-9840A5076BFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
