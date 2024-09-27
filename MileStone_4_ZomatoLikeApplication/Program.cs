@@ -22,21 +22,8 @@ namespace MileStone_4_ZomatoLikeApplication
         }";
 
 
-
-            //string xmlFilePath = "C:\\Users\\Administrator\\source\\repos\\Assignments-Training\\MileStone_4_ZomatoLikeApplication\\bin\\Debug\\net6.0\\Restaurants.xml";  // Path to the XML file
-            XDocument xmlDoc = XDocument.Load(xmlFilePath);
-
-            // Parse and display restaurant data
-            var restaurants = xmlDoc.Descendants("restaurant");
-
-            foreach (var restaurant in restaurants)
-            {
-                string name = restaurant.Element("name")?.Value;
-                string address = restaurant.Element("address")?.Value;
-                string rating = restaurant.Element("rating")?.Value;
-
-                Console.WriteLine($"Restaurant: {name}, Address: {address}, Rating: {rating}");
-            }
+            Console.WriteLine("-------Read data from xml---------");
+            XMLReader.xmlParse(xmlFilePath);
 
             Console.WriteLine("------------Read menu from csv:--------");
 
@@ -80,6 +67,25 @@ namespace MileStone_4_ZomatoLikeApplication
 
             app.Run();
             
+        }
+
+        public static class XMLReader {
+        public static void xmlParse(string xmlFilePath)
+            {
+                XDocument xmlDoc = XDocument.Load(xmlFilePath);
+
+                // Parse and display restaurant data
+                var restaurants = xmlDoc.Descendants("restaurant");
+
+                foreach (var restaurant in restaurants)
+                {
+                    string name = restaurant.Element("name")?.Value;
+                    string address = restaurant.Element("address")?.Value;
+                    string rating = restaurant.Element("rating")?.Value;
+
+                    Console.WriteLine($"Restaurant: {name}, Address: {address}, Rating: {rating}");
+                }
+            }
         }
         public static class CsvReader
         {
